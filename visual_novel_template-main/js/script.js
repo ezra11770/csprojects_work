@@ -69,7 +69,8 @@ monogatari.assets ('videos', {
 monogatari.assets ('images', {
     alice23: "Lewis-Carroll-Alice-Under-Ground-23.jpg",
     alice24: "Lewis-Carroll-Alice-Under-Ground-24.jpg",
-		kitten: "cat.jpg"
+		kitten: "cat.jpg",
+		trashcan: "trashcan.png"
 });
 
 // Define the backgrounds for each scene.
@@ -87,12 +88,12 @@ monogatari.characters ({
 monogatari.script ({
 
 	'Start': [
-            'show image alice23 with fadeIn',
-            '"You are old, Father William,” the young man said, "And your hair has become very white"',
+            'show image trashcan with fadeIn',
+            '"welcome to my trashcan :))))"',
             '"And yet you incessantly stand on your head. Do you think, at your age, it is right?"',
             '"In my youth," Father William replied to his son, "I feared it might injure the brain"',
             '"But, now that I’m perfectly sure I have none. Why, I do it again and again.',
-            'hide image alice23 with fadeOut',
+            'hide image trashcan with fadeOut',
             'jump Next'
         ],
 

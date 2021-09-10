@@ -21,7 +21,7 @@ Edit `js/script.js` with a text editor.  I recommend [Atom](https://atom.io/)
 if you don't have a favorite already.
 
 Scroll to the bottom of the file to find `monogatari.script` -- this is where
-all the action is.  You can also change the main screen template, also at the 
+all the action is.  You can also change the main screen template, also at the
 bottom of the file.
 
 To see how to use images, search for `alice23`.   The actual image files are
@@ -38,4 +38,4 @@ After you have made edits, be sure to:
 
 [Monogatari](https://monogatari.io/) visual novel engine  
 
-
+[my site](file:///Users/ezraeyre/Documents/GitHub/csprojects_work/visual_novel_template-main/index.html)
